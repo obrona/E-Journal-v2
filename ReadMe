@@ -1,0 +1,3 @@
+Have `python 3.12` installed <br>
+Run `pip install -r packages`<br>
+Type `python journal.py` to run
